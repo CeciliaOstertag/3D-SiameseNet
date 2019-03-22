@@ -1,3 +1,4 @@
+"""
 <3D-Siamese Net architecture, data loading, and training>
     Copyright (C) <2019>  <Cecilia Ostertag>
 
@@ -13,6 +14,7 @@
 
     You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
+"""
 
 import keras
 from keras import Sequential, Model
